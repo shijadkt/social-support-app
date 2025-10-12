@@ -1,7 +1,7 @@
 # Installation & Setup
 
 1. Clone the Repository
-    git clone https://github.com/your-username/social-support-app.git
+    git clone https://github.com/shijadkt/social-support-app.git
     cd social-support-app
 
 2. Install Dependencies
