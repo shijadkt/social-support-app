@@ -87,6 +87,7 @@ const ApplicationWizard = () => {
 
   return (
     <FormProvider {...methods}>
+      <h5>Title</h5>
       <Box sx={{ maxWidth: 800, margin: 'auto', p: 2, mt: 4 }}>
         <ProgressBar step={activeStep} maxSteps={steps.length} />
 
